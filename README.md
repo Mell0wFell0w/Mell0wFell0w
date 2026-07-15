@@ -6,7 +6,7 @@
 </div>
 
 ### 🧙‍♂️ About Me
-I'm a **data-obsessed** graduate student at Brigham Young University earning my masters of information systems management and working at the intersection of **data engineering, analytics, and software development (building APIs)**.
+I'm a **data-obsessed** graduate of Brigham Young University earning my masters of information systems management and working at the intersection of **data engineering, analytics, and software development (building APIs)**.
 
 I care deeply about **doing things the right way**. That occasionally means I take an extra beat before diving in, but once I start, I am the kind of person that just can't stop tinkering. I love taking initiative and owning problems end-to-end. And more than anything, **I crave feedback**. Without outside perspective, you're just optimizing in a vacuum.
 
